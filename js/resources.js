@@ -10,6 +10,7 @@ game.resources = [
         {name: "dreaded-enemy", type:"image", src: "data/img/enemy3.png"},
         {name: "Stage 1", type:"image", src: "data/img/Stage 1.jpg"},
         {name: "Stage 2", type:"image", src: "data/img/Stage 2.jpg"},
+        {name: "titleScreen", type:"image", src: "data/img/titlescreen.jpg"},
         {name: "upgradeScreen", type:"image", src: "data/img/upgradeScreen.jpg"},
         {name: "gameOverScreen", type:"image", src: "data/img/gameOverScreen.jpg"}
         
